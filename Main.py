@@ -1,0 +1,3 @@
+var = "hoello"
+
+print (var);
