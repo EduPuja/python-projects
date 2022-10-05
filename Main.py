@@ -1,3 +1,8 @@
-var = "hoello"
+numero = 2
 
-print (var);
+# el numero ha sigut modificat per tan NO es un numero 2
+numero = 4
+if numero == 2:
+    print("Aquest numero es 2")
+else :
+    print("auqest numero NO es 2")
