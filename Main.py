@@ -9,5 +9,5 @@ else :
 
     fruits = ["poma","aguacate","platan"]
     for x in fruits:
-        print("Fruites: ")
+        print("Fruites:")
         print(fruits)
