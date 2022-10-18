@@ -1,5 +1,10 @@
-import csv 
-with open("cars_data.csv",newline='') as csvFile:
-    render = csv.reader(csvFile)
-    for row in render:
-        print(row)
+import pandas as pd 
+df = pd.read_csv("students_grades.csv")
+
+mitjana = df["grades"].mean()
+mediana = df["grades"].median()
+
+print("""
+Mitjana: %d
+Mediana: %d
+"""%(mitjana,mediana))
