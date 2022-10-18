@@ -1,10 +1,10 @@
+from turtle import pd
 import pandas as pd 
-df = pd.read_csv("students_grades.csv")
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-mitjana = df["grades"].mean()
-mediana = df["grades"].median()
+data = pd.read_csv("cars_data.csv")
 
-print("""
-Mitjana: %d
-Mediana: %d
-"""%(mitjana,mediana))
+car_brand = data["car_brand"].values
+
+print(car_brand)
