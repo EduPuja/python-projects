@@ -66,3 +66,9 @@ for i in brands:
     print(i)
 
 
+#punt 5 -- cert i fals  
+
+hybrid = data["hybrid_car"].values
+for a in hybrid:
+  if True in hybrid:
+      print("Cotxe SI")
