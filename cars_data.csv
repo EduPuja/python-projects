@@ -1,0 +1,1001 @@
+car_brand,car_model,car_year,hybrid_car,color
+Nissan,Frontier,2009,true,Goldenrod
+Hummer,H3,2010,true,Aquamarine
+Ford,Mustang,1985,true,Goldenrod
+Maserati,Quattroporte,1986,true,Teal
+Saab,900,1988,true,Puce
+Lincoln,MKS,2011,false,Crimson
+Honda,Odyssey,2012,true,Aquamarine
+Pontiac,Grand Prix,1969,true,Red
+Suzuki,Sidekick,1997,false,Mauv
+Chevrolet,Suburban 1500,2004,false,Teal
+Mercury,Villager,1993,true,Violet
+Land Rover,Discovery,1997,true,Crimson
+Ford,E150,2011,true,Fuscia
+Kia,Optima,2004,true,Indigo
+Chevrolet,Corvette,2002,true,Turquoise
+Acura,CL,2003,true,Indigo
+Isuzu,Rodeo,2000,false,Yellow
+Chrysler,New Yorker,1994,true,Purple
+Chevrolet,Silverado 1500,2010,true,Indigo
+Volkswagen,Type 2,1990,false,Goldenrod
+Scion,tC,2007,true,Pink
+Hyundai,Sonata,2004,true,Turquoise
+Lexus,ES,2001,false,Mauv
+Mitsubishi,Endeavor,2009,true,Mauv
+Lexus,ES,2001,false,Violet
+Chevrolet,Suburban 2500,2001,false,Khaki
+Ford,E-Series,1985,true,Orange
+Audi,A4,2012,false,Puce
+Volkswagen,New Beetle,2007,true,Puce
+Toyota,Sienna,1999,false,Goldenrod
+Chrysler,Fifth Ave,1993,false,Pink
+Ford,Contour,1999,false,Red
+Mazda,CX-9,2009,true,Red
+Jeep,Wrangler,1993,false,Turquoise
+Lincoln,Town Car,1991,true,Orange
+Ford,ZX2,2003,false,Pink
+Chevrolet,Blazer,1995,false,Puce
+Cadillac,CTS,2008,false,Pink
+Lexus,ES,2009,true,Fuscia
+Acura,CL,2002,false,Mauv
+Chevrolet,Silverado,2003,false,Khaki
+Cadillac,Escalade,2006,true,Puce
+Plymouth,Voyager,1998,false,Aquamarine
+Mazda,CX-9,2012,false,Indigo
+BMW,X6 M,2013,true,Mauv
+Land Rover,Range Rover,1993,false,Indigo
+Chevrolet,Bel Air,1967,true,Maroon
+Oldsmobile,Intrigue,2001,true,Blue
+Ford,Focus,2009,true,Maroon
+Oldsmobile,Bravada,1996,false,Purple
+GMC,Savana Cargo Van,2006,false,Pink
+Cadillac,Escalade ESV,2003,true,Indigo
+Mazda,929,1991,false,Purple
+Pontiac,GTO,1965,false,Khaki
+Honda,Insight,2011,false,Indigo
+Chevrolet,Monte Carlo,2002,false,Turquoise
+Mercedes-Benz,300SE,1992,false,Mauv
+Geo,Prizm,1995,true,Indigo
+Chevrolet,G-Series G20,1995,false,Fuscia
+Dodge,Ram Wagon B250,1992,false,Orange
+Mercedes-Benz,W201,1986,false,Turquoise
+Ford,E-Series,2006,false,Goldenrod
+Buick,Riviera,1999,true,Orange
+Aston Martin,DB9 Volante,2006,true,Maroon
+Lexus,LS,1995,true,Red
+Mercedes-Benz,CLK-Class,2008,true,Maroon
+GMC,Savana 1500,2003,true,Puce
+Hummer,H1,1998,false,Mauv
+Mercedes-Benz,CLS-Class,2009,true,Puce
+Chevrolet,Suburban 2500,1994,true,Khaki
+Chevrolet,Suburban 1500,1995,true,Red
+BMW,Z8,2000,true,Goldenrod
+Ford,Fusion,2009,false,Mauv
+Ford,Contour,1997,false,Green
+Ford,Taurus X,2009,true,Violet
+Mitsubishi,Tredia,1985,true,Mauv
+Dodge,Ram Van 3500,2000,false,Purple
+Plymouth,Neon,1998,false,Puce
+Suzuki,Daewoo Lacetti,2005,true,Turquoise
+Volkswagen,Passat,2008,true,Fuscia
+Mitsubishi,Montero,1995,false,Violet
+Mercedes-Benz,M-Class,2010,false,Green
+Toyota,Tundra,2011,true,Red
+Porsche,911,2000,false,Crimson
+Chrysler,300M,2000,true,Indigo
+Audi,S6,2008,true,Mauv
+MINI,Cooper Clubman,2008,false,Purple
+Mitsubishi,Diamante,1995,true,Mauv
+Mercury,Mariner,2010,true,Goldenrod
+Mercury,Milan,2011,true,Turquoise
+Mitsubishi,Outlander,2008,false,Orange
+Lexus,LX,2005,true,Red
+Nissan,Xterra,2003,true,Indigo
+Mitsubishi,GTO,1997,false,Maroon
+Mitsubishi,Mirage,1985,true,Fuscia
+Saturn,S-Series,1993,false,Orange
+Saab,9-7X,2006,false,Purple
+Porsche,Boxster,2005,true,Blue
+Cadillac,Eldorado,2001,false,Khaki
+Volkswagen,New Beetle,2003,true,Goldenrod
+Audi,100,1991,true,Khaki
+Maserati,Quattroporte,1984,true,Aquamarine
+Chrysler,Sebring,1998,true,Puce
+Suzuki,Swift,1988,false,Red
+Audi,A4,2012,true,Turquoise
+Ford,Escort,2004,true,Goldenrod
+Nissan,Xterra,2008,true,Violet
+Ford,Five Hundred,2005,true,Pink
+Ford,Escape,2013,false,Aquamarine
+Ford,Econoline E250,1994,true,Yellow
+Honda,Odyssey,2005,false,Blue
+Hyundai,Scoupe,1994,false,Maroon
+Lincoln,Mark VII,1984,false,Fuscia
+Volkswagen,Jetta,1985,true,Green
+Chevrolet,Cruze,2012,false,Indigo
+Buick,Estate,1990,true,Maroon
+Chevrolet,Monte Carlo,2003,true,Violet
+Plymouth,Roadrunner,1969,true,Mauv
+Acura,MDX,2010,false,Red
+Pontiac,Grand Am,2000,true,Blue
+GMC,Vandura 2500,1994,true,Goldenrod
+Lotus,Exige,2006,false,Puce
+Ford,Taurus,2009,false,Green
+Mitsubishi,Galant,2002,true,Mauv
+Nissan,370Z,2011,true,Puce
+Hyundai,Accent,2004,true,Indigo
+Buick,Roadmaster,1994,true,Mauv
+Buick,Park Avenue,2002,false,Purple
+Chevrolet,Express,2011,false,Goldenrod
+Toyota,Sienna,2000,false,Orange
+Cadillac,Escalade EXT,2005,false,Green
+Chevrolet,Tracker,2004,false,Fuscia
+GMC,Canyon,2008,false,Puce
+Mazda,Mazda3,2009,false,Pink
+Chevrolet,TrailBlazer,2003,true,Purple
+Mitsubishi,Pajero,1985,false,Teal
+Aston Martin,DBS,2008,false,Green
+Ford,F-Series,2003,true,Turquoise
+Aston Martin,Vantage,2009,true,Turquoise
+Ford,Festiva,1990,true,Aquamarine
+Lincoln,Town Car,2008,false,Khaki
+GMC,Suburban 1500,1998,true,Yellow
+Mercury,Lynx,1985,false,Mauv
+Subaru,Justy,1994,false,Blue
+Toyota,4Runner,2005,false,Aquamarine
+Chevrolet,1500,1997,true,Fuscia
+Toyota,Prius,2012,true,Teal
+Hyundai,Santa Fe,2002,false,Turquoise
+Infiniti,EX,2012,false,Khaki
+Nissan,Sentra,2007,true,Indigo
+Smart,Fortwo,2009,false,Mauv
+Mazda,Miata MX-5,1996,true,Mauv
+Audi,S8,2001,false,Teal
+Mazda,CX-9,2008,true,Blue
+Suzuki,Swift,1995,true,Aquamarine
+Merkur,XR4Ti,1985,false,Goldenrod
+Lincoln,Town Car,1985,true,Green
+Acura,Legend,1992,true,Pink
+Chevrolet,Silverado 2500,2003,true,Green
+Buick,Enclave,2012,true,Red
+Oldsmobile,Alero,2001,true,Purple
+Mazda,Mazda3,2009,false,Blue
+Chevrolet,G-Series G20,1992,true,Puce
+Mercury,Grand Marquis,1999,false,Goldenrod
+Nissan,Armada,2009,false,Indigo
+Subaru,XT,1987,false,Blue
+Isuzu,i-370,2007,false,Fuscia
+Subaru,Outback,2008,false,Teal
+Mercedes-Benz,W201,1987,true,Puce
+Cadillac,DeVille,2004,false,Yellow
+Subaru,Outback,2001,false,Purple
+Ford,Econoline E150,2002,true,Orange
+Volkswagen,Golf,1985,true,Fuscia
+Toyota,Tacoma,2003,true,Crimson
+Kia,Sephia,1995,true,Puce
+Pontiac,Firebird,1998,false,Aquamarine
+BMW,7 Series,2011,true,Green
+GMC,Safari,1997,false,Aquamarine
+Lotus,Esprit,2000,false,Pink
+Lexus,IS F,2010,true,Yellow
+Pontiac,Bonneville,1987,true,Aquamarine
+Infiniti,G37,2010,false,Khaki
+Porsche,Boxster,2008,true,Red
+Pontiac,LeMans,1989,false,Aquamarine
+Porsche,928,1987,true,Khaki
+Chevrolet,Express 2500,2007,false,Yellow
+Saab,9000,1991,true,Puce
+Pontiac,Parisienne,1986,false,Fuscia
+Jeep,Commander,2010,false,Red
+Mitsubishi,Mirage,1989,true,Red
+Audi,S4,2013,true,Goldenrod
+Mercedes-Benz,SLK-Class,2010,false,Turquoise
+Kia,Sportage,2009,false,Orange
+Plymouth,Roadrunner,1969,true,Fuscia
+Pontiac,6000,1989,false,Fuscia
+Acura,NSX,2000,false,Indigo
+Oldsmobile,Cutlass Cruiser,1994,true,Purple
+Ford,Thunderbird,1997,true,Blue
+Toyota,RAV4,1997,true,Maroon
+Acura,NSX,1995,true,Goldenrod
+Pontiac,G6,2006,false,Blue
+Cadillac,Seville,2002,false,Green
+Mercedes-Benz,CLS-Class,2010,false,Indigo
+Suzuki,SJ,1989,true,Fuscia
+Ford,Explorer Sport Trac,2000,false,Puce
+Mercury,Topaz,1994,true,Goldenrod
+Ford,Expedition EL,2012,false,Green
+Audi,5000S,1985,false,Aquamarine
+Suzuki,Kizashi,2011,true,Turquoise
+Ford,EXP,1988,true,Puce
+Suzuki,Swift,1996,false,Crimson
+Dodge,Grand Caravan,1994,true,Aquamarine
+Subaru,Outback,2010,true,Khaki
+Ford,Econoline E150,2000,false,Mauv
+Lexus,SC,1993,true,Pink
+Land Rover,Discovery Series II,1999,false,Indigo
+Mercedes-Benz,190E,1993,true,Indigo
+Mercury,Sable,2001,true,Indigo
+Oldsmobile,Bravada,1996,true,Pink
+Volvo,S60,2003,false,Violet
+Nissan,Murano,2009,false,Teal
+Toyota,Sienna,2006,true,Green
+Chevrolet,Tahoe,2002,false,Puce
+Lincoln,Navigator,2006,true,Violet
+Subaru,Baja,2004,false,Maroon
+Jaguar,XF,2012,true,Fuscia
+Mercedes-Benz,SLK-Class,2004,true,Pink
+Pontiac,Sunbird,1992,false,Crimson
+Saturn,VUE,2005,true,Indigo
+Pontiac,Firebird,1995,false,Blue
+Mazda,MX-5,1992,false,Pink
+Toyota,Matrix,2009,false,Goldenrod
+Dodge,Dakota,2000,false,Maroon
+Toyota,MR2,2004,false,Yellow
+Mazda,B-Series Plus,1999,true,Goldenrod
+Lamborghini,Aventador,2012,true,Mauv
+Chevrolet,Beretta,1995,true,Mauv
+Aston Martin,V8 Vantage S,2012,false,Crimson
+Toyota,Supra,1996,false,Maroon
+Chevrolet,Silverado Hybrid,2006,false,Turquoise
+Geo,Metro,1997,false,Purple
+Chevrolet,Corvette,1973,true,Orange
+Hyundai,Accent,2003,false,Purple
+Ford,Mustang,1983,true,Turquoise
+Dodge,Magnum,2006,true,Aquamarine
+Nissan,Frontier,2001,false,Red
+Chrysler,Imperial,1926,false,Crimson
+Land Rover,Range Rover,1990,false,Crimson
+Mercedes-Benz,SLK-Class,2002,false,Maroon
+GMC,Vandura 3500,1993,true,Mauv
+Mercedes-Benz,E-Class,1984,false,Purple
+Oldsmobile,98,1996,false,Aquamarine
+Toyota,Tundra,2003,false,Turquoise
+Buick,LaCrosse,2010,true,Turquoise
+Volkswagen,Fox,1993,false,Green
+Ford,Thunderbird,2002,false,Purple
+Chevrolet,Prizm,2002,false,Khaki
+Toyota,Solara,2001,true,Goldenrod
+Audi,RS6,2003,true,Puce
+Ford,Focus,2013,false,Orange
+Lincoln,Continental Mark VII,1985,true,Maroon
+Hyundai,Sonata,1993,true,Violet
+GMC,Sierra 2500,2004,false,Fuscia
+Ford,F150,1999,false,Indigo
+Mazda,929,1990,true,Aquamarine
+Lincoln,Navigator,2008,false,Orange
+GMC,Sierra 3500,2010,true,Pink
+Buick,Somerset,1986,true,Yellow
+Volkswagen,Eurovan,2001,false,Orange
+Porsche,Cayenne,2005,false,Crimson
+Ram,2500,2011,false,Blue
+BMW,5 Series,2001,true,Goldenrod
+Volvo,V40,2003,true,Violet
+Ford,Escape,2007,true,Violet
+Jeep,Patriot,2009,false,Indigo
+Chevrolet,Corvette,1958,true,Indigo
+Subaru,XT,1988,false,Fuscia
+Lincoln,LS,2004,false,Orange
+Volkswagen,CC,2012,true,Fuscia
+Mercury,Cougar,2001,true,Crimson
+Mazda,Mazda6 Sport,2006,true,Green
+Hyundai,Genesis Coupe,2010,true,Red
+Honda,Odyssey,2009,true,Mauv
+Volkswagen,Jetta,1989,false,Indigo
+Chevrolet,Avalanche,2008,false,Maroon
+Infiniti,QX,2000,false,Fuscia
+Honda,CR-V,2000,true,Indigo
+Mazda,RX-7,1986,true,Mauv
+Porsche,911,1996,true,Maroon
+Chevrolet,G-Series G30,1992,false,Yellow
+Mazda,B-Series Plus,1993,false,Turquoise
+Kia,Mentor,1997,false,Fuscia
+Hummer,H3,2006,false,Mauv
+Buick,Lucerne,2007,true,Teal
+Dodge,Dakota,2000,true,Goldenrod
+Lincoln,Continental,1993,false,Mauv
+Lincoln,Town Car,2004,true,Khaki
+Mitsubishi,Excel,1987,true,Blue
+Acura,TSX,2006,true,Orange
+Chevrolet,Camaro,1980,true,Pink
+MINI,Cooper,2002,true,Yellow
+GMC,Sierra 1500,2009,false,Turquoise
+Buick,Regal,2011,true,Red
+Ford,Mustang,1989,false,Aquamarine
+Ford,E250,2010,false,Pink
+Chevrolet,Silverado 2500,2008,true,Teal
+Mazda,929,1987,false,Yellow
+Aston Martin,DBS,2011,false,Khaki
+Isuzu,Space,1993,true,Yellow
+Audi,A8,2009,false,Yellow
+Infiniti,G35,2003,true,Puce
+Ford,Taurus,1999,false,Orange
+GMC,Suburban 2500,1992,true,Goldenrod
+Ford,Laser,1985,true,Purple
+Dodge,Charger,1970,false,Green
+Nissan,Frontier,2000,true,Fuscia
+Lincoln,Town Car,1993,false,Aquamarine
+Dodge,Charger,1969,true,Indigo
+Volvo,960,1997,true,Violet
+Lincoln,Town Car,2007,false,Blue
+Subaru,Outback,2000,true,Green
+Mitsubishi,Diamante,2004,false,Teal
+Lexus,LX,2010,true,Crimson
+Volvo,V50,2009,true,Indigo
+Porsche,968,1994,true,Red
+Jeep,Liberty,2006,false,Mauv
+Nissan,Pathfinder,2004,true,Yellow
+Dodge,D250,1992,true,Mauv
+Nissan,Titan,2007,false,Indigo
+Cadillac,DeVille,2000,true,Turquoise
+Chevrolet,Suburban 1500,2001,true,Crimson
+Volvo,240,1992,true,Puce
+BMW,5 Series,1997,false,Blue
+Dodge,Sprinter,2008,true,Crimson
+Hyundai,Tucson,2012,true,Violet
+Dodge,Grand Caravan,1993,true,Yellow
+Subaru,Outback,2007,false,Maroon
+Mitsubishi,Pajero,1988,true,Purple
+Mazda,929,1991,true,Maroon
+Lexus,HS,2012,true,Crimson
+GMC,Safari,2000,false,Goldenrod
+Nissan,Armada,2011,true,Mauv
+Pontiac,6000,1983,false,Green
+BMW,X5,2010,false,Maroon
+Volkswagen,Cabriolet,1988,true,Crimson
+Volkswagen,Touareg,2005,true,Blue
+Chevrolet,Silverado 2500,2004,true,Red
+Mazda,Mazda3,2009,false,Fuscia
+Chevrolet,Express 1500,2009,true,Purple
+MINI,Cooper,2002,false,Yellow
+Acura,Legend,1992,true,Yellow
+Lincoln,MKX,2010,false,Turquoise
+Honda,Civic,2003,false,Maroon
+BMW,5 Series,2009,true,Violet
+Toyota,Camry Hybrid,2007,true,Pink
+Subaru,Legacy,1999,true,Indigo
+Mitsubishi,Pajero,1985,false,Teal
+Mercury,Grand Marquis,1986,true,Purple
+Land Rover,Freelander,2003,true,Aquamarine
+Mazda,Mazda6,2005,false,Turquoise
+Chrysler,Sebring,2003,true,Goldenrod
+Cadillac,CTS,2008,true,Blue
+Acura,NSX,1992,true,Purple
+Acura,TSX,2009,true,Teal
+BMW,X6 M,2011,false,Crimson
+Mercury,Villager,1994,false,Turquoise
+Ford,Explorer,2001,true,Mauv
+BMW,330,2005,false,Crimson
+GMC,Yukon XL 1500,2005,false,Violet
+Subaru,Brat,1986,false,Pink
+Ford,Mustang,1970,true,Red
+Mercury,Topaz,1989,true,Maroon
+Pontiac,Solstice,2006,true,Fuscia
+Ford,Expedition EL,2012,false,Teal
+Dodge,Ram 2500 Club,1995,true,Aquamarine
+Honda,Passport,1998,false,Violet
+Mazda,Navajo,1991,true,Purple
+Pontiac,Safari,1987,false,Yellow
+Dodge,Ram 2500,1998,true,Crimson
+Pontiac,LeMans,1968,false,Turquoise
+Mercedes-Benz,S-Class,2011,true,Purple
+Dodge,Ram Van B250,1992,false,Green
+Audi,Coupe Quattro,1991,true,Blue
+Pontiac,Firefly,1985,false,Mauv
+Dodge,Dakota Club,2002,true,Teal
+Mazda,RX-7,1989,true,Green
+Suzuki,Samurai,1994,true,Pink
+Kia,Sportage,2002,true,Pink
+Chevrolet,HHR,2009,true,Goldenrod
+Ferrari,FF,2012,true,Goldenrod
+GMC,Envoy,2002,false,Blue
+Mercedes-Benz,R-Class,2006,false,Khaki
+Toyota,T100 Xtra,1997,true,Red
+Ford,Explorer,1997,false,Maroon
+Oldsmobile,Bravada,1994,true,Teal
+Infiniti,G,2002,false,Blue
+Land Rover,Range Rover,2001,false,Aquamarine
+Acura,Legend,1988,true,Turquoise
+Mitsubishi,Diamante,2000,true,Yellow
+Chevrolet,2500,1996,true,Violet
+Ford,Bronco,1993,false,Yellow
+Chevrolet,Corsica,1992,false,Mauv
+Chrysler,New Yorker,1993,false,Maroon
+Lexus,SC,1995,false,Maroon
+Oldsmobile,98,1992,true,Orange
+Kia,Amanti,2006,false,Yellow
+Lotus,Esprit,2004,true,Khaki
+Chevrolet,G-Series G30,1996,true,Crimson
+Pontiac,Grand Am,2002,false,Mauv
+Volkswagen,Cabriolet,1986,true,Khaki
+GMC,Sonoma,1992,true,Teal
+Hyundai,Elantra,2013,true,Puce
+Pontiac,Tempest,1966,false,Teal
+Toyota,MR2,1987,true,Violet
+Infiniti,Q,1995,false,Aquamarine
+Pontiac,Sunfire,2005,false,Red
+Hyundai,Tiburon,1999,true,Aquamarine
+Chevrolet,Blazer,1996,true,Teal
+Chevrolet,Tahoe,1996,false,Turquoise
+Volkswagen,Passat,1990,false,Turquoise
+Toyota,Camry,1998,false,Maroon
+Geo,Prizm,1996,true,Mauv
+GMC,Safari,1994,true,Red
+Chevrolet,Tracker,2003,true,Goldenrod
+Saab,9-5,2001,false,Indigo
+Infiniti,FX,2011,true,Maroon
+Lexus,LS,1994,true,Fuscia
+Audi,S8,2006,true,Mauv
+Toyota,Land Cruiser,2006,false,Crimson
+Buick,Rendezvous,2006,false,Goldenrod
+Chevrolet,Suburban 1500,1996,false,Indigo
+Ford,Mustang,1968,true,Puce
+Ford,Expedition,2001,false,Fuscia
+Audi,A8,2007,true,Aquamarine
+Mazda,Mazda6,2004,false,Fuscia
+Plymouth,Colt Vista,1993,true,Yellow
+GMC,Acadia,2011,true,Puce
+Toyota,Tacoma,2003,false,Puce
+Chevrolet,Corvette,1969,false,Crimson
+Ford,Taurus,1993,false,Purple
+Kia,Spectra,2004,true,Mauv
+Ford,Mustang,2005,true,Khaki
+Dodge,Ram 2500,2008,false,Green
+Mercedes-Benz,S-Class,1991,false,Khaki
+BMW,545,2004,true,Green
+Chevrolet,Corvette,1984,true,Mauv
+Lotus,Esprit,1994,true,Green
+Lincoln,Mark VIII,1993,true,Indigo
+Ford,Taurus,1986,false,Orange
+Audi,80,1990,true,Violet
+Ford,Thunderbird,1997,false,Puce
+Saab,900,1986,false,Goldenrod
+Saturn,L-Series,2003,true,Indigo
+Lincoln,Town Car,1996,true,Purple
+Kia,Spectra,2002,false,Goldenrod
+Isuzu,i-350,2006,true,Violet
+Mazda,626,1998,false,Blue
+Chevrolet,Corsica,1992,true,Maroon
+Volkswagen,GLI,2008,false,Crimson
+Mercedes-Benz,CLK-Class,2002,true,Red
+Pontiac,Torrent,2007,false,Blue
+Mazda,B-Series Plus,2002,true,Violet
+Lotus,Esprit,2003,true,Fuscia
+Dodge,Ram 2500,2002,true,Maroon
+Dodge,Ram 2500,2008,true,Red
+Cadillac,Allante,1992,true,Puce
+Volkswagen,Corrado,1991,false,Goldenrod
+Ford,Ranger,2000,true,Teal
+Subaru,Loyale,1991,true,Purple
+Pontiac,6000,1991,false,Pink
+Toyota,Corolla,1999,true,Indigo
+Chevrolet,Express 1500,2009,true,Teal
+Volkswagen,Beetle,1965,false,Goldenrod
+Chevrolet,Astro,2004,true,Fuscia
+Chevrolet,Impala,2007,false,Goldenrod
+BMW,5 Series,1999,true,Puce
+Mercedes-Benz,SL-Class,2005,false,Pink
+Toyota,TundraMax,2010,false,Green
+Dodge,Ram Van B150,1994,false,Violet
+Pontiac,Grand Prix,1977,false,Puce
+Oldsmobile,Alero,2002,false,Mauv
+Mercury,Monterey,2007,true,Indigo
+Dodge,Charger,1970,true,Aquamarine
+Maserati,Quattroporte,2012,true,Orange
+Chevrolet,Astro,2002,false,Red
+Hummer,H2,2007,true,Goldenrod
+Toyota,Sienna,2007,false,Crimson
+Chevrolet,S10,1992,true,Blue
+Ford,Mustang,2003,true,Puce
+Mazda,Tribute,2004,true,Green
+Dodge,Ram 2500,2010,true,Goldenrod
+Suzuki,Swift,1987,false,Teal
+Mercury,Milan,2006,false,Maroon
+Dodge,Stratus,2000,true,Crimson
+Chevrolet,G-Series G20,1993,false,Yellow
+Buick,Enclave,2009,false,Mauv
+Isuzu,Rodeo,1999,true,Red
+Chevrolet,G-Series G20,1995,false,Maroon
+Mitsubishi,Galant,1994,true,Maroon
+BMW,6 Series,2004,false,Mauv
+Ford,Bronco,1985,false,Yellow
+Hyundai,Elantra,2002,true,Puce
+Rolls-Royce,Phantom,2011,true,Mauv
+Bentley,Azure,2010,false,Pink
+Lexus,IS F,2011,false,Puce
+Mercedes-Benz,E-Class,2009,true,Purple
+Lincoln,Navigator,1998,true,Green
+GMC,Savana,2009,false,Puce
+Suzuki,Grand Vitara,2002,true,Purple
+Volkswagen,Golf,2004,true,Green
+Hyundai,Accent,2012,true,Orange
+Hyundai,Elantra,2009,false,Fuscia
+Acura,MDX,2011,true,Khaki
+Scion,xB,2012,true,Aquamarine
+Chevrolet,Silverado,2001,false,Khaki
+Hyundai,Elantra,1997,true,Blue
+GMC,Envoy XUV,2005,false,Yellow
+Pontiac,Bonneville,1990,false,Maroon
+Honda,Ridgeline,2007,false,Orange
+Pontiac,Grand Prix,1988,false,Green
+Mercury,Grand Marquis,2010,true,Indigo
+Jeep,Patriot,2011,false,Indigo
+Ford,Mustang,1979,false,Red
+GMC,2500 Club Coupe,1992,false,Goldenrod
+Volkswagen,Jetta,2001,false,Mauv
+Chrysler,Town & Country,1993,true,Puce
+Subaru,Legacy,1998,false,Yellow
+Lincoln,MKT,2012,false,Pink
+Cadillac,Seville,1995,true,Fuscia
+Land Rover,Defender 90,1995,false,Blue
+Honda,Ridgeline,2007,true,Mauv
+Ford,F250,2007,false,Pink
+Cadillac,Escalade ESV,2011,false,Puce
+Subaru,SVX,1993,true,Indigo
+BMW,1 Series,2011,false,Green
+Hyundai,Tiburon,1998,true,Aquamarine
+Oldsmobile,Bravada,1994,true,Aquamarine
+Mercedes-Benz,G-Class,2007,true,Green
+Chevrolet,Impala,2001,true,Green
+Chevrolet,Cobalt,2005,false,Aquamarine
+Pontiac,Grand Prix,2004,true,Khaki
+Aston Martin,V12 Vantage,2012,true,Turquoise
+Land Rover,Defender,1995,true,Turquoise
+Porsche,911,2005,true,Indigo
+Maybach,Landaulet,2012,false,Turquoise
+Ford,Escape,2002,false,Fuscia
+Jaguar,XK Series,1997,false,Mauv
+Nissan,Cube,2012,true,Yellow
+Ford,F350,2000,true,Red
+GMC,Savana 3500,2003,false,Purple
+Mitsubishi,Montero Sport,2004,true,Indigo
+Aston Martin,DB9,2011,false,Violet
+Mercury,Mountaineer,2003,true,Maroon
+Hyundai,Entourage,2007,false,Teal
+Chevrolet,Corvette,1994,true,Indigo
+GMC,Yukon,1993,false,Maroon
+Ferrari,F430,2007,true,Aquamarine
+Chevrolet,Express 2500,2011,false,Violet
+Pontiac,Aztek,2003,true,Pink
+Mitsubishi,Galant,1991,false,Blue
+Pontiac,G6,2007,true,Turquoise
+Chevrolet,Silverado,1999,false,Goldenrod
+Scion,xB,2006,false,Orange
+Audi,A3,2010,false,Purple
+Dodge,Ram Wagon B150,1994,true,Goldenrod
+Saab,9-5,2009,false,Maroon
+Suzuki,Grand Vitara,1999,false,Crimson
+Mitsubishi,Eclipse,2009,true,Teal
+Chevrolet,Tahoe,2002,false,Red
+Ford,Escort,1986,false,Purple
+Toyota,Tacoma,2004,false,Crimson
+Ford,Probe,1997,false,Orange
+Mazda,B-Series,2009,true,Pink
+GMC,Savana Cargo Van,2006,false,Fuscia
+Chevrolet,Blazer,2000,true,Red
+Dodge,Durango,2005,true,Puce
+Geo,Tracker,1994,false,Puce
+Honda,Civic,1994,false,Red
+Volkswagen,Cabriolet,2001,true,Yellow
+Dodge,Caravan,2001,false,Purple
+Nissan,Quest,1996,false,Turquoise
+Cadillac,Eldorado,1995,false,Maroon
+Toyota,Land Cruiser,2001,false,Violet
+Lincoln,MKX,2011,false,Mauv
+Maybach,62,2009,true,Turquoise
+Mazda,MPV,1994,true,Fuscia
+Bentley,Continental Flying Spur,2006,false,Mauv
+Chevrolet,Express 1500,1997,true,Puce
+Oldsmobile,Intrigue,1998,false,Turquoise
+Subaru,Alcyone SVX,1993,true,Aquamarine
+Porsche,Cayenne,2011,true,Blue
+Lotus,Esprit,1997,false,Purple
+Ford,E-Series,2007,true,Yellow
+Infiniti,QX,2003,true,Yellow
+Maybach,62,2007,true,Goldenrod
+Lamborghini,Murciélago,2005,true,Crimson
+Mercedes-Benz,300CE,1993,false,Teal
+Lotus,Esprit,1990,false,Orange
+Pontiac,Safari,1986,true,Pink
+Chevrolet,Malibu,2004,false,Puce
+Dodge,Caliber,2007,true,Mauv
+Chevrolet,Corvette,2012,false,Crimson
+Pontiac,Trans Sport,1998,true,Yellow
+Chevrolet,Camaro,1967,false,Purple
+Mercedes-Benz,400E,1992,true,Pink
+Lexus,LS,1995,true,Orange
+Scion,xD,2011,true,Violet
+Jeep,Wrangler,2006,true,Goldenrod
+GMC,Sierra 1500,2001,false,Khaki
+GMC,Sierra 2500HD,2006,false,Fuscia
+Chevrolet,Suburban,2006,true,Purple
+Toyota,Avalon,2003,true,Khaki
+Pontiac,Sunbird,1992,true,Indigo
+Ford,Taurus,2005,true,Maroon
+Dodge,Ram 2500 Club,1999,false,Puce
+Lincoln,Town Car,2005,false,Red
+Porsche,Boxster,2008,false,Goldenrod
+Dodge,Ram Van 2500,1999,true,Red
+Suzuki,XL7,2008,true,Yellow
+Lincoln,Navigator L,2007,false,Blue
+Pontiac,Grand Prix,1985,false,Yellow
+Jeep,Grand Cherokee,2010,false,Orange
+Maybach,57,2005,true,Khaki
+Buick,Enclave,2009,true,Teal
+Honda,CR-V,2007,true,Mauv
+Ford,Bronco,1995,true,Red
+Land Rover,Discovery,1999,false,Indigo
+Ford,Escort,1987,false,Turquoise
+Mitsubishi,Eclipse,2002,true,Pink
+Isuzu,Hombre,1997,true,Mauv
+Chevrolet,Astro,1992,true,Orange
+Volkswagen,Type 2,1990,false,Red
+Audi,100,1991,true,Orange
+Cadillac,CTS,2009,false,Turquoise
+Ford,Expedition,2005,false,Orange
+Chevrolet,Aveo,2011,true,Khaki
+Plymouth,Volare,1976,true,Khaki
+Chevrolet,2500,1994,false,Pink
+Nissan,Titan,2006,false,Crimson
+Honda,Odyssey,1996,false,Aquamarine
+Honda,del Sol,1994,true,Teal
+Hyundai,Veracruz,2009,true,Pink
+Chevrolet,Express 3500,2010,false,Purple
+Cadillac,STS-V,2009,false,Crimson
+Chevrolet,Silverado 2500,2006,false,Orange
+Studebaker,Avanti,1964,true,Crimson
+Dodge,Viper,2002,false,Orange
+Volkswagen,Eurovan,1992,true,Indigo
+Volkswagen,Cabriolet,1985,false,Green
+Mercedes-Benz,Sprinter 2500,2011,true,Crimson
+Pontiac,Grand Prix,2003,true,Fuscia
+Chevrolet,Corvette,1995,true,Indigo
+Honda,Accord Crosstour,2011,false,Teal
+Nissan,Sentra,1998,false,Goldenrod
+Audi,TT,2011,false,Blue
+Pontiac,Bonneville,1996,true,Indigo
+Chevrolet,Monte Carlo,2004,false,Red
+Mercury,Cougar,1987,false,Green
+Volkswagen,Type 2,1985,false,Blue
+Suzuki,Swift,1991,false,Pink
+Chrysler,300,2012,false,Yellow
+Volvo,S60,2004,true,Puce
+Mitsubishi,Endeavor,2011,true,Red
+Mitsubishi,Outlander,2009,true,Red
+Ford,Focus,2004,false,Orange
+Pontiac,Firebird,1968,true,Khaki
+Buick,Skylark,1989,true,Turquoise
+Mercedes-Benz,SLK-Class,1998,false,Green
+Chevrolet,Tahoe,2012,false,Aquamarine
+Ford,Escape,2009,false,Orange
+Ford,Crown Victoria,1995,false,Teal
+Kia,Sedona,2012,true,Khaki
+Honda,S2000,2004,true,Maroon
+GMC,Rally Wagon 1500,1992,true,Turquoise
+Land Rover,Range Rover,2009,false,Indigo
+Dodge,Caravan,1993,true,Khaki
+Toyota,4Runner,2005,true,Purple
+Mazda,Protege,2003,true,Purple
+Volvo,C70,2011,true,Crimson
+Volkswagen,Jetta,2002,false,Orange
+Chevrolet,2500,2000,false,Indigo
+Ford,Excursion,2001,false,Crimson
+Maserati,Quattroporte,1984,false,Turquoise
+Land Rover,Defender,1993,true,Goldenrod
+Buick,Regal,1991,false,Fuscia
+BMW,7 Series,2006,true,Turquoise
+Mercury,Mountaineer,2009,false,Fuscia
+Cadillac,DTS,2006,true,Crimson
+Lotus,Esprit,1987,false,Green
+Saturn,VUE,2004,false,Yellow
+Pontiac,Grand Prix,1976,false,Indigo
+Pontiac,G3,2009,true,Puce
+Mazda,CX-7,2012,false,Khaki
+Lotus,Esprit,2003,false,Turquoise
+Acura,Legend,1990,true,Goldenrod
+Lexus,LS,2006,false,Fuscia
+Buick,Park Avenue,1991,true,Mauv
+Mazda,RX-7,1993,true,Maroon
+Chevrolet,Cobalt,2007,true,Turquoise
+Chevrolet,Cobalt,2009,true,Violet
+Dodge,Avenger,2008,true,Green
+Infiniti,QX,2011,true,Violet
+BMW,325,2004,false,Blue
+Saturn,L-Series,2002,false,Turquoise
+Lexus,GX,2007,false,Turquoise
+Mazda,Mazdaspeed6,2007,true,Yellow
+Dodge,Ram 2500,2007,false,Indigo
+Lotus,Elan,1993,true,Teal
+Mazda,Mazda6,2010,false,Aquamarine
+Geo,Prizm,1992,true,Yellow
+Mitsubishi,Pajero,1990,true,Violet
+Dodge,Durango,2007,false,Goldenrod
+Dodge,Ram Van 1500,1999,true,Maroon
+Ford,Crown Victoria,2007,false,Blue
+Chevrolet,Aveo,2007,false,Purple
+Volkswagen,Corrado,1994,true,Blue
+Saab,9-5,2004,true,Puce
+Toyota,FJ Cruiser,2011,false,Crimson
+Chevrolet,Corvette,1987,true,Turquoise
+GMC,Sonoma,2004,true,Green
+Pontiac,Firebird,1999,false,Fuscia
+Mazda,MX-6,1990,false,Aquamarine
+Buick,Park Avenue,1991,false,Mauv
+Eagle,Talon,1995,true,Purple
+Dodge,Colt,1992,false,Turquoise
+Dodge,Durango,1998,false,Blue
+Alfa Romeo,164,1995,true,Turquoise
+Bentley,Azure,2009,false,Crimson
+Dodge,Viper,2002,true,Violet
+Tesla,Roadster,2012,false,Orange
+Volvo,240,1993,true,Maroon
+Toyota,Tercel,1995,false,Violet
+Hyundai,Accent,2004,false,Goldenrod
+Mercedes-Benz,300D,1992,true,Pink
+Ford,Bronco II,1989,true,Khaki
+Audi,S4,1992,false,Turquoise
+Hyundai,Azera,2012,false,Fuscia
+Chevrolet,Silverado,2011,false,Maroon
+Ford,Econoline E250,2002,false,Turquoise
+Subaru,Legacy,1997,false,Crimson
+Mazda,RX-8,2011,false,Orange
+Mazda,B-Series,1998,true,Puce
+Lincoln,Town Car,2010,true,Orange
+Buick,LeSabre,2003,true,Fuscia
+Chevrolet,APV,1993,true,Violet
+Geo,Metro,1994,true,Red
+Dodge,Ram 2500,1994,true,Red
+Jeep,Cherokee,1999,false,Crimson
+Mitsubishi,Pajero,1996,false,Goldenrod
+Mitsubishi,Precis,1994,false,Fuscia
+Land Rover,Freelander,2001,true,Aquamarine
+Ford,E-Series,2002,true,Purple
+Cadillac,Escalade,2011,true,Aquamarine
+Volkswagen,Jetta,2009,false,Red
+Subaru,Brat,1987,false,Khaki
+Chevrolet,Express 2500,2000,false,Red
+Pontiac,GTO,2004,false,Blue
+Mitsubishi,Galant,2001,true,Maroon
+Toyota,Tacoma Xtra,1995,false,Fuscia
+Lincoln,LS,2005,true,Turquoise
+Ford,E-Series,1963,false,Red
+Chevrolet,Beretta,1993,true,Yellow
+Porsche,911,1987,true,Goldenrod
+Acura,RSX,2006,true,Violet
+Dodge,Dakota,1994,false,Fuscia
+GMC,Rally Wagon 3500,1994,false,Mauv
+Ford,F350,2003,false,Maroon
+Infiniti,J,1995,true,Pink
+Volkswagen,GTI,1998,true,Turquoise
+Honda,CR-V,2008,false,Fuscia
+BMW,X3,2008,false,Yellow
+Acura,RL,2012,false,Aquamarine
+Volkswagen,Fox,1988,false,Green
+Cadillac,Eldorado,1992,true,Goldenrod
+Dodge,Dakota,1992,false,Blue
+Volkswagen,Jetta,1993,false,Blue
+Pontiac,G5,2008,false,Pink
+Maserati,Spyder,2005,false,Blue
+Ford,Explorer,1991,true,Blue
+Dodge,Durango,2012,false,Teal
+Ford,Freestyle,2006,true,Aquamarine
+Ford,LTD,1985,true,Puce
+Dodge,Ram Van 1500,2003,false,Crimson
+Infiniti,G,1993,true,Goldenrod
+Mercedes-Benz,S-Class,2001,false,Teal
+Buick,LeSabre,1989,false,Crimson
+Mazda,626,1986,true,Khaki
+BMW,Z3,1997,false,Blue
+Isuzu,i-280,2006,false,Green
+GMC,Yukon XL 1500,2002,true,Turquoise
+Mitsubishi,Outlander,2009,false,Aquamarine
+Honda,Civic,1997,false,Red
+Mercury,Cougar,1990,false,Violet
+Mazda,Mazda6,2010,false,Khaki
+Ford,Econoline E150,1996,false,Red
+Oldsmobile,88,1996,false,Aquamarine
+Volkswagen,Golf,1987,false,Yellow
+Nissan,Murano,2003,true,Violet
+Audi,A8,2010,false,Blue
+Nissan,Titan,2009,true,Teal
+Lincoln,Aviator,2005,true,Violet
+Pontiac,Sunbird,1983,true,Pink
+Volkswagen,Scirocco,1988,true,Turquoise
+Subaru,Justy,1994,false,Teal
+Jaguar,XK,2006,true,Red
+Chevrolet,Express,2007,false,Aquamarine
+Ford,E150,2003,true,Fuscia
+Toyota,Camry Solara,2008,true,Maroon
+Kia,Sorento,2005,false,Red
+Mercury,Montego,2005,true,Mauv
+Chevrolet,Suburban 1500,2006,true,Puce
+Lincoln,Navigator,2009,false,Teal
+Acura,TL,2009,true,Green
+Volvo,S80,2006,false,Blue
+Dodge,Caravan,1993,true,Crimson
+Ford,Explorer Sport Trac,2009,true,Crimson
+Volkswagen,Passat,1998,false,Maroon
+Mazda,Mazda3,2007,true,Fuscia
+Mitsubishi,Challenger,2000,true,Blue
+Chevrolet,Express,2008,true,Blue
+Honda,CR-X,1985,true,Indigo
+Pontiac,Firefly,1984,true,Orange
+Ford,F150,2008,false,Aquamarine
+Mazda,Mazda6,2010,false,Crimson
+Rolls-Royce,Ghost,2010,true,Yellow
+Toyota,Camry Solara,2007,true,Green
+Bentley,Continental,2010,true,Puce
+Ford,Econoline E250,1997,false,Mauv
+GMC,Safari,1999,true,Purple
+Jeep,Compass,2012,false,Teal
+BMW,Z4,2005,true,Teal
+Mazda,Millenia,1999,false,Green
+Pontiac,GTO,1973,true,Turquoise
+Toyota,Sienna,2011,false,Green
+Eagle,Vision,1993,true,Purple
+Buick,LaCrosse,2008,true,Indigo
+Plymouth,Grand Voyager,2000,false,Pink
+Chevrolet,Camaro,1971,true,Purple
+BMW,X5,2008,true,Khaki
+Isuzu,Trooper,1997,true,Teal
+Chevrolet,Impala,2009,true,Pink
+Pontiac,Turbo Firefly,1988,true,Teal
+Mercury,Tracer,1996,false,Mauv
+Ford,Explorer,2003,true,Yellow
+Volkswagen,Corrado,1991,false,Blue
+Ford,Explorer,1998,false,Maroon
+Chevrolet,Camaro,1978,false,Fuscia
+Cadillac,Escalade,2005,true,Puce
+Acura,TSX,2012,true,Aquamarine
+Chevrolet,Suburban 2500,2003,true,Crimson
+Mercedes-Benz,C-Class,2006,true,Blue
+Suzuki,XL-7,2005,true,Indigo
+Chevrolet,Impala,2009,true,Fuscia
+Cadillac,Fleetwood,1995,false,Aquamarine
+Lexus,IS,2002,true,Puce
+Buick,Roadmaster,1995,true,Maroon
+GMC,Suburban 2500,1992,true,Puce
+Toyota,Corolla,1992,true,Purple
+GMC,1500 Club Coupe,1993,false,Blue
+Infiniti,QX,2011,false,Teal
+Chrysler,Sebring,2001,true,Goldenrod
+Isuzu,Trooper,1994,false,Blue
+Ford,F-Series Super Duty,2011,false,Mauv
+Ford,EXP,1987,false,Maroon
+Volvo,960,1992,false,Pink
+Saab,9-3,2002,true,Mauv
+Mercedes-Benz,SL-Class,2012,true,Red
+Lexus,SC,2005,false,Violet
+Ford,Econoline E350,1998,true,Crimson
+Acura,NSX,1993,false,Indigo
+Audi,S6,2008,true,Turquoise
+Lexus,ES,2008,true,Teal
+Mercury,Topaz,1987,false,Maroon
+Pontiac,Grand Prix,1976,false,Mauv
+Cadillac,Escalade ESV,2011,true,Orange
+Mitsubishi,Challenger,1998,true,Turquoise
+Mitsubishi,Pajero,1997,true,Fuscia
+Honda,Civic,2004,true,Maroon
+Ford,F150,2010,true,Teal
+Chevrolet,Express 1500,2010,true,Red
+Maserati,Biturbo,1987,false,Aquamarine
+Chevrolet,Blazer,2005,false,Orange
+Lexus,SC,2003,true,Mauv
+Audi,R8,2008,false,Turquoise
+Pontiac,6000,1989,false,Purple
+Mercury,Cougar,1970,false,Green
+Volkswagen,Jetta,1984,false,Pink
+Subaru,Baja,2005,false,Yellow
+Mitsubishi,Pajero,1987,false,Turquoise
+Acura,Vigor,1994,true,Yellow
+Chevrolet,Silverado 2500,2005,true,Puce
+Bentley,Continental Flying Spur,2010,false,Crimson
+Mercury,Cougar,1988,false,Puce
+Chrysler,PT Cruiser,2002,false,Mauv
+Mazda,Mazda3,2008,true,Mauv
+Chevrolet,Silverado 2500,2010,false,Crimson
+Land Rover,LR2,2012,false,Maroon
+Toyota,Corolla,2012,false,Pink
+Jaguar,XJ,2010,true,Crimson
+Dodge,Stratus,2004,true,Maroon
+Porsche,944,1984,true,Indigo
+Chevrolet,Monte Carlo,2003,false,Turquoise
+Ford,Taurus,1990,true,Teal
+Maserati,Biturbo,1986,true,Pink
+Buick,LaCrosse,2005,true,Red
+Suzuki,Sidekick,1991,false,Yellow
+Suzuki,Samurai,1993,false,Blue
+Lamborghini,Gallardo,2008,true,Fuscia
+Saab,9-3,2005,true,Aquamarine
+Mercedes-Benz,C-Class,2003,false,Aquamarine
+Mazda,929,1992,false,Aquamarine
+Pontiac,Grand Am,2004,false,Orange
+Chevrolet,Caprice Classic,1995,true,Crimson
+Mitsubishi,Cordia,1986,false,Khaki
+Toyota,4Runner,1997,false,Khaki
+Volkswagen,Passat,1991,false,Red
+Lotus,Exige,2012,false,Violet
+Suzuki,Forenza,2006,false,Red
+Kia,Soul,2011,true,Puce
+Ford,F150,1994,false,Pink
+Lexus,ES,2006,true,Violet
+Nissan,350Z,2007,true,Red
+Dodge,Ram 3500,2002,false,Mauv
+Mitsubishi,Truck,1988,true,Aquamarine
+Aston Martin,V8 Vantage,2010,true,Indigo
+Chevrolet,Equinox,2005,true,Fuscia
+Nissan,Versa,2012,false,Purple
+Hyundai,Santa Fe,2001,true,Yellow
+Chevrolet,Impala,2003,false,Red
+Daewoo,Lanos,2001,true,Puce
+Honda,Odyssey,1996,true,Teal
+Oldsmobile,Bravada,1992,false,Indigo
+Pontiac,Grand Prix,1966,true,Indigo
+Isuzu,Ascender,2003,true,Maroon
+Nissan,Stanza,1992,false,Teal
+Mercedes-Benz,SL-Class,1985,true,Teal
+Dodge,Durango,2007,true,Blue
+Pontiac,Grand Prix,1974,false,Turquoise
+Dodge,Ram Van 2500,2002,true,Violet
+GMC,Suburban 1500,1997,false,Turquoise
+Chevrolet,Tracker,2002,true,Mauv
+Buick,Century,2002,true,Yellow
+Mitsubishi,Eclipse,1998,true,Green
+Isuzu,Amigo,1993,true,Goldenrod
+Dodge,Colt,1993,false,Blue
+Honda,Accord,1986,false,Turquoise
+Land Rover,Freelander,2003,false,Maroon
+Kia,Sephia,1996,false,Puce
+Suzuki,Verona,2006,false,Mauv
+Ford,Galaxie,1966,false,Turquoise
+Porsche,944,1984,false,Pink
+Plymouth,Colt Vista,1992,true,Fuscia
+Chevrolet,Sportvan G20,1992,true,Blue
+Mazda,Miata MX-5,1999,false,Goldenrod
+Acura,TSX,2006,true,Mauv
+BMW,Z3,2002,false,Khaki
+Subaru,Tribeca,2008,true,Mauv
+Chevrolet,Express 3500,1997,false,Puce
+Mercedes-Benz,W201,1989,false,Red
+Lexus,LX,2004,true,Crimson
+Chevrolet,Colorado,2007,true,Goldenrod
+Jaguar,S-Type,2008,false,Yellow
+Chrysler,300,1999,true,Maroon
+Subaru,Loyale,1990,false,Maroon
+Volkswagen,GTI,1988,true,Purple
+Dodge,Ram Van 1500,2001,true,Mauv
+Geo,Storm,1993,false,Khaki
+Cadillac,STS,2011,false,Purple
+Toyota,Previa,1991,false,Khaki
+Eagle,Talon,1998,false,Blue
+Oldsmobile,88,1994,false,Turquoise
+Dodge,Ram 3500,2000,false,Red
+Volkswagen,GTI,1990,false,Turquoise
+Chrysler,PT Cruiser,2007,true,Pink
+BMW,7 Series,2010,true,Crimson
+Ford,F450,2012,true,Mauv
+BMW,M3,1996,false,Aquamarine
+Lamborghini,Gallardo,2005,false,Maroon
+Audi,A6,1996,true,Puce
+Dodge,Dakota,2000,false,Green
+Mercury,Topaz,1994,true,Maroon
+Ford,Ranger,1997,false,Puce
+GMC,Savana 1500,2001,false,Puce
+Rolls-Royce,Ghost,2011,true,Purple
+Cadillac,Escalade ESV,2012,false,Fuscia
+Lotus,Esprit,2004,true,Pink
+Lincoln,Navigator,2011,true,Pink
+GMC,Sierra 3500,2007,true,Pink
+Ford,Focus,2008,true,Fuscia
+GMC,2500 Club Coupe,1997,true,Violet
+Audi,RS 6,2003,false,Puce
+Honda,Accord,1984,false,Violet
+Audi,Allroad,2005,false,Maroon
+Pontiac,Grand Am,2002,true,Crimson
+Ford,Taurus,2006,false,Pink
+Nissan,Quest,1995,true,Teal
+Audi,A3,2011,true,Pink
+Buick,Reatta,1990,true,Khaki
+Aston Martin,DB9,2012,false,Khaki
+Oldsmobile,Ciera,1994,true,Puce
